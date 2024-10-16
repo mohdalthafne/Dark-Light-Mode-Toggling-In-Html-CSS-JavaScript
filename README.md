@@ -1,6 +1,6 @@
 # Responsive Navbar
 <div align="center">
-  <img src="[https://github.com/mohdalthafne/Responsive-Navbar-In-HTML-CSS-JavaScript/blob/main/thumbnail.png](https://github.com/mohdalthafne/Dark-Light-Mode-Toggling-In-Html-CSS-JavaScript/blob/main/thumbnail.jpg)">
+  <img src="https://github.com/mohdalthafne/Responsive-Navbar-In-HTML-CSS-JavaScript/blob/main/thumbnail.png">
 </div>
 
 ## Navbar In HTML, CSS & JavaScript
