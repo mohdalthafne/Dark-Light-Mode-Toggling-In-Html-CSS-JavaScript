@@ -1,0 +1,14 @@
+Light
+--mainColor: #f79f1f;
+--txtColor1: #333;
+--txtColor2: #777;
+--bgColor1: #fff;
+--bgColor2: #f5f5f5;
+
+Dark
+
+--mainColor: #f79f1f;
+--txtColor1: #fff;
+--txtColor2: #eee;
+--bgColor1: #333;
+--bgColor2: #222;

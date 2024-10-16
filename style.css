@@ -1,0 +1,65 @@
+/* Importing Google Fonts - Nunito */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+:root{
+    --mainColor: #f79f1f;
+    --txtColor1: #333;
+    --txtColor2: #777;
+    --bgColor1: #f5f5f5;
+}
+body.dark{
+    --txtColor1: #fff;
+    --txtColor2: #eee;
+    --bgColor1: #222;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Nunito", sans-serif;
+}
+html{
+    font-size: 62.5%;
+    text-transform: capitalize;
+}
+body{
+    transition: all .5s ease;
+    background: var(--bgColor1);
+}
+section{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--bgColor1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div i{
+    font-size: 2.95rem;
+    color: var(--txtColor1);
+    cursor: pointer;
+    transition: all .5s ease;
+    margin: 4px 0;
+}
+div i:hover{
+    color: var(--mainColor);
+}
+div h1{
+    font-size: 3.15rem;
+    font-weight: 700;
+    color: var(--txtColor1);
+}
+div h1 span{
+    color: var(--mainColor);
+}
+div p{
+    font-size: 1.65rem;
+    font-weight: 600;
+    color: var(--txtColor2);
+}
